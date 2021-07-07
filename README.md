@@ -3,7 +3,7 @@
 ## About the sample
 This example illustrates how to change the expander icon in TreeGrid(SfTreeGrid)?
 
-By default, SfTreeGrid expander is +/- symbol. You can able to change the tree grid expander by customizing the TreeGridExpander style.
+The default symbol of expander is +/- in [WPF TreeGrid](https://www.syncfusion.com/wpf-controls/treegrid) (SfTreeGrid). You can be able to change the tree grid expander by customizing the [TreeGridExpander](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.TreeGrid.TreeGridExpander.html) style.
 
 ```XAML
 <Window.Resources>
