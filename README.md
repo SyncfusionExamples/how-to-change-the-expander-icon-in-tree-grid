@@ -61,5 +61,7 @@ The default symbol of expander is +/- in [WPF TreeGrid](https://www.syncfusion.c
 </Window.Resources>
 ```
 
+KB article - [How to change the expander icon in TreeGrid(SfTreeGrid)?](https://www.syncfusion.com/kb/11240/how-to-change-the-expander-icon-in-wpf-treegrid-sftreegrid)
+
 ## Requirements to run the demo
 Visual Studio 2015 and above versions
