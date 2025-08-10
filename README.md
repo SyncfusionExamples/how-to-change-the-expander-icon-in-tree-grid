@@ -13,7 +13,6 @@ The default symbol of expander is +/- in [WPF TreeGrid](https://www.syncfusion.c
                         <VisualStateManager.VisualStateGroups>
                             <VisualStateGroup x:Name="ExpansionStates">
                                 <VisualState x:Name="Collapsed"/>
-
                                 <VisualState x:Name="Expanded">
                                     <Storyboard>
                                         <ObjectAnimationUsingKeyFrames BeginTime="00:00:00"
@@ -36,7 +35,6 @@ The default symbol of expander is +/- in [WPF TreeGrid](https://www.syncfusion.c
                             Margin="2,0,0,0"
                             HorizontalAlignment="Center"
                             VerticalAlignment="Center"
-
 Data="F1M1464.78,374.21C1466.31,374.21,1466.94,375.538,1466.17,376.861L1435.89,429.439C1435.12,430.759,1433.87,430.823,1433.11,429.5L1402.82,376.827C1402.06,375.507,1402.69,374.21,1404.21,374.21L1464.78,374.21"
                             Fill="{TemplateBinding Foreground}"
                             SnapsToDevicePixels="True"
