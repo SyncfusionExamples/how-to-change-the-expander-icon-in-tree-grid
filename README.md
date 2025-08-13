@@ -2,7 +2,7 @@
 
 The default symbol of expander is +/- in [WPF TreeGrid](https://www.syncfusion.com/wpf-controls/treegrid) (SfTreeGrid). You can be able to change the tree grid expander by customizing the [TreeGridExpander](https://help.syncfusion.com/cr/wpf/Syncfusion.UI.Xaml.TreeGrid.TreeGridExpander.html) style.
 
-```XAML
+```Xml
 <Window.Resources>
     <Style TargetType="syncfusion:TreeGridExpander" >
         <Setter Property="Template">
